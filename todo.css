@@ -1,0 +1,15 @@
+.disabledList{
+    
+        pointer-events:none; 
+        opacity:0.6;        
+    
+}
+
+#todoList{
+        border: 10px solid rgb(75, 46, 204);
+        border-radius: 1rem;
+}
+
+#mainnavbar{
+        background: rgb(75, 46, 204);
+}
